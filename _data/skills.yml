@@ -1,0 +1,30 @@
+languages:
+  - item: Python
+  - item: MATLAB
+  - item: C
+  - item: C++
+  - item: R
+  - item: JavaScript
+
+
+frameworks:
+  - item: TensorFlow
+  - item: Keras
+  - item: OpenCV
+  - item: PyTorch
+  - item: React
+  - item: Wordpress
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Docker
+  - item: AWS
+  - item: XAMPP
+  - item: MongoDB
+
+operating_System:
+  - item: Mac OS
+  - item: Linux
+  - item: Windows
+
