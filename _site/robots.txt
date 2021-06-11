@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://vs74.github.io/sitemap.xml
+Sitemap: https://vasudev-sharma.github.io/sitemap.xml
