@@ -2,23 +2,23 @@
 name: Vasudev Sharma
 title: Vasudev Sharma | Computer Vision and Deep Learning Research Aspirant
 description: Passionate Research asspirant whose interest lies in computer vision and deep learning
-url: https://vs74.github.io/
+url: https://vasudev-sharma.github.io/
 baseurl: ''
-email: vasudevsharma74@yahoo.com
-cover: https://vs74.github.io/img/og.png
-logo: https://vs74.github.io/img/emojis/technologist.png
-resume: https://vs74.github.io/resume.pdf
+email: sharmavasudev1998@gmail.com
+cover: https://vasudev-sharma.github.io/img/og.png
+logo: https://vasudev-sharma.github.io/img/emojis/technologist.png
+resume: https://vasudev-sharma.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:vasudevsharma74@yahoo.com
+    url: mailto:sharmavasudev1998@gmail.com
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=lC6m1coAAAAJ&hl=en
   - title: Research Gate
     url: https://www.researchgate.net/profile/Vasudev_Sharma2
   - title: github
-    url: https://github.com/vs74
+    url: https://github.com/vasudev-sharma
   - title: linkedin
-    url: https://www.linkedin.com/in/vs74
+    url: https://www.linkedin.com/in/vasudev-sharma-
 # Build settings
 markdown: kramdown
 
