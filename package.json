@@ -1,12 +1,12 @@
 {
-  "name": "vs74.github.io",
+  "name": "vasudev-sharma.github.io",
   "version": "0.0.0",
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://vs74.github.io"
+    "url": "https://vasudev-sharma.github.io"
   },
-  "homepage": "https://vs74.github.io",
+  "homepage": "https://vasudev-sharma.github.io",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve",
