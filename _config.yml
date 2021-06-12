@@ -40,3 +40,5 @@ keep_files:
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
+
+theme: jekyll-theme-minimal
